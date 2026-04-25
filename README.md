@@ -1,5 +1,6 @@
 Arch Linux Chinese Community Repository
 ====
+contribution by anjali
 
 [![Packaging consistency check](https://github.com/archlinuxcn/repo/actions/workflows/test.yml/badge.svg)](https://github.com/archlinuxcn/repo/actions/workflows/test.yml)
 
